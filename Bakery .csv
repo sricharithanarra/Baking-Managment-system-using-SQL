@@ -1,0 +1,31 @@
+B_name,selling_price,locationrack,category,Price
+Almond croissant,4,A,Pastry,2
+Angbutter,4.8,A,Scone,3
+Berry ade,2.5,B,Drink,1
+Butter ,1.5,B,Side,0.5
+Cacao deep,2,C,Drink,0.5
+Cheesecake,5,C,Tart,2
+Chocolate chip cookie,3,C,Cookie,1
+Croissant,3.5,C,Pastry,1
+Gateau chocolat,4,G,Cake,2
+Gingerbread ,4,G,Cookie,2
+Ice coffee,4,I,Drink,2
+Ice coffee latte,4.5,I,Drink,2
+Ice milk tea,4.5,I,Drink,2
+Jam,1.5,J,Side,0.5
+Joffre Cake,5,J,Cake,2
+Lemon ade,4.5,L,Drink,2
+Lemon Tart,3.5,L,Tart ,2
+Merinque cookies,4,C,Meringue,1.5
+Orange pound,4.5,O,Cake,2
+Oreo Cheesecake,5.5,O,Tart,2
+Pain au chocolat,3.5,P,Pastry,2
+Pandoro,4.5,P,Bread,3
+Pavlova,5,P,Meringue,3
+Plain bread,3.5,P,Bread,1
+Strawberry Scone,4.5,S,Scone,2
+Strawberry shortcake,5.5,S,Cake,2.5
+Tiramisu,4.5,T,Cake,3
+Tiramisu Croissant,4,T,Pastry,2
+Vanilla latte,4.5,V,Drink,2
+Victoria Sponge,5,V,Cake,2
